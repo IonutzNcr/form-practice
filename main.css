@@ -1,0 +1,13 @@
+input{
+    all:unset;
+    border: 2px solid black;
+}
+
+input:invalid{
+    border-color: red;
+}
+
+label,button{
+    display: block;
+}
+
